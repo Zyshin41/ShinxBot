@@ -4,7 +4,7 @@ from bs4 import BeautifulSoup as bs
 from concurrent.futures import ThreadPoolExecutor
 """
 Project : bot facebook
-author : fahmiapz
+author : Muhammad zainul umam
 dibuat pada : 16 november 2021
 """
 b="\033[94m"
@@ -37,12 +37,12 @@ def baner():
 \033[0;92m\___ \| '_ \| | '_' \\ \/ /  / / | | | \033[0m
 \033[0;92m ___) | | | | | | | |>  <  / /| |_| | \033[0m
 \033[0;96m|____/|_| |_|_|_| |_/_/\_\/____\__, | \033[0m
-\033[0;96m                               |___/ \033[0m
+\033[0;96m                               |___/ \033[0m \033[0;95mFB AUTO BOT V1.0\033[0m
 \033[90m----------------------------------------------
 {d}Donate   : {g}081237347234 (dana)
 {d}Message  : {g}https://wa.me/6285740559154
 {d}Restapi  : {g}https://shinxbot-id.herokuapp.com
-{d} Istagram  : {g}@shin_ze24
+{d} Istagram: {g}@shin_ze24
 {d}Github   : {g}https://github.com/Shinzy24
 {d}Facebook : {g}https://facebook.com/100057370791997
 \033[90m----------------------------------------------{d}''')
